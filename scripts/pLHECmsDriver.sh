@@ -1,0 +1,1 @@
+cmsDriver.py --python_filename pLHE_cfg.py --eventcontent LHE --customise Configuration/DataProcessing/Utils.addMonitoring --datatier LHE --fileout file:PPD-Run3Summer21pLHE-00001.root --conditions auto:mc --step NONE --geometry DB:Extended --filein files.txt --era Run3 --no_exec --mc -n -1
